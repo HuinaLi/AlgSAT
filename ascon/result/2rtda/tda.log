@@ -1,0 +1,92 @@
+nohup: ignoring input
+bash /home/user/anonymous/bosphorus/solve.sh /home/user/anonymous/bosphorus/ascon/2rtda tda 1
+solve start time is: 2022/12:02:49
+c Bosphorus SHA revision 47edb6b2cd98c6fbc3bffcc35dbf2569bc29f58e
+c Executed with command line: /home/user/anonymous/bosphorus/build/bosphorus --anfread /home/user/anonymous/bosphorus/ascon/2rtda/tda.anf --anfwrite /home/user/anonymous/bosphorus/ascon/2rtda/tda_out.anf --cnfwrite /home/user/anonymous/bosphorus/ascon/2rtda/tda.cnf --solvewrite /home/user/anonymous/bosphorus/ascon/2rtda/tda_solution -t 1
+c Compilation env CMAKE_CXX_COMPILER = /usr/bin/c++ | CMAKE_CXX_FLAGS =  -Wall -Wextra -Wunused -pedantic -Wsign-compare -fno-omit-frame-pointer -Wtype-limits -Wuninitialized -Wno-deprecated -Wstrict-aliasing -Wpointer-arith -mtune=native -Wall -Wextra -Wunused -Wsign-compare -fno-omit-frame-pointer -Wtype-limits -Wuninitialized -Wno-deprecated -Wstrict-aliasing -Wpointer-arith -Wpointer-arith -Wformat-nonliteral -Winit-self -Wparentheses -Wunreachable-code -ggdb3 | COMPILE_DEFINES =  | STATICCOMPILE = OFF | ONLY_SIMPLE =  | Boost_FOUND = 1 | STATS =  | SQLITE3_FOUND =  | ZLIB_FOUND = TRUE | VALGRIND_FOUND =  | ENABLE_TESTING =  | M4RI_FOUND = TRUE | SLOW_DEBUG =  | ENABLE_ASSERTIONS = ON | PYTHON_EXECUTABLE =  | PYTHON_LIBRARY =  | PYTHON_INCLUDE_DIRS =  | MY_TARGETS =  | LARGEMEM =  | LIMITMEM =  | compilation date time = Jun 29 2022 21:11:00
+c --- Configuration --
+c maxTime = 1.00e+20
+c XL simp (deg = 1; s = 30.00+4.00): 1
+c EL simp (s = 30.00): 1
+c SAT simp (10000:100000): 1
+ using 1 threads
+c Cut num: 5
+c Brickenstein cutoff: 10
+c --------------------
+c [ANF Input] read in T: 0.13
+c ---- ANF stats -----
+c Num total vars: 1664
+c Num free vars: 1664
+c Num equations: 1600
+c Num monoms in eqs: 37785
+c Max deg in eqs: 2
+c Simple XORs: 448
+c Num vars set: 0
+c Num vars replaced: 0
+c --------------------
+c [ANF hash] Calculating ANF hash...
+c [ANF hash] Done. T: 0.00
+c Simplifying....
+c [boshp] Running iterative simplification...
+c [ANF prop] Running ANF propagation...
+c [ANF prop] Left eqs: 1472 T: 0.10
+c [iter-simp] ------ Iteration 0
+c [XL] Running XL... ring size: 1664
+c [XL] Done. Learnt: 384 T: 0.39
+c [XL] learnt 384 new facts in 0.39 seconds.
+c [ANF prop] Running ANF propagation...
+c [ANF prop] Left eqs: 1216 T: 0.08
+c [iter-simp] ------ Iteration 0
+c [ElimLin] Running ElimLin... ring size: 1664
+c [ElimLin] Done. Learnt: 64 T: 0.70
+c [ElimLin] learnt 0 new facts in 0.70 seconds.
+c [iter-simp] ------ Iteration 0
+c [CNF-gen] Number of value assignments = 384
+c Number of equiv assigments = 64
+c [SAT] learnt 0 new facts in 0.76 seconds.
+c [iter-simp] ------ Iteration 1
+c [XL] Running XL... ring size: 1664
+c [XL] Done. Learnt: 64 T: 0.38
+c [XL] learnt 0 new facts in 0.38 seconds.
+c [iter-simp] ------ Iteration 1
+c [ElimLin] Running ElimLin... ring size: 1664
+c [ElimLin] Done. Learnt: 64 T: 0.71
+c [ElimLin] learnt 0 new facts in 0.71 seconds.
+c [iter-simp] ------ Iteration 1
+c [CNF-gen] Number of value assignments = 384
+c Number of equiv assigments = 64
+c [SAT] learnt 0 new facts in 0.77 seconds.
+c [iter-simp] ------ Iteration 2
+c [XL] Running XL... ring size: 1664
+c [XL] Done. Learnt: 64 T: 0.36
+c [XL] learnt 0 new facts in 0.36 seconds.
+c [iter-simp] ------ Iteration 2
+c [ElimLin] waiting for 1 iteration(s).
+c [iter-simp] ------ Iteration 2
+c [SAT] waiting for 1 iteration(s).
+c [ after 3.0 iteration(s) in 4.26 seconds.]
+c Simplifying finished.
+c ---- ANF stats -----
+c Num total vars: 1664
+c Num free vars: 1216
+c Num equations: 1216
+c Num monoms in eqs: 32281
+c Max deg in eqs: 2
+c Simple XORs: 64
+c Num vars set: 384
+c Num vars replaced: 64
+c --------------------
+c [CNF-gen] Number of value assignments = 384
+c Number of equiv assigments = 64
+c [CNF conversion] in 0.29 seconds.
+c ---- CNF stats -----
+c Map sizes            : 17536/24112
+c Clause Sets          : 17536
+c Added as CNF         : 512
+c Added as simple ANF  : 512
+c Added as complex  ANF: 640
+c --------------------
+s ANF-UNSATISFIABLE
+c Learnt 385 fact(s) in 1051.05 seconds using 230.34MB.
+solve end time is: 2022/12:20:22
+solve exec time is: 1053.461413s

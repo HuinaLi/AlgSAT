@@ -1,0 +1,147 @@
+nohup: ignoring input
+2022-07-11 22:28:28,670 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,670 - 6rasconhash - INFO - difference state at round 0: 
+04000a0080014000
+
+0000000000000000
+
+0000000000000000
+
+0000000000000000
+
+0000000000000000
+
+2022-07-11 22:28:28,671 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,671 - 6rasconhash - INFO - input X state at round 0: 
+e3cd5bcd10216032
+
+bed0df80d77d704a
+
+704250acfea562a6
+
+bc1556cc98493d47
+
+404461840a57a8e8
+
+2022-07-11 22:28:28,672 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,672 - 6rasconhash - INFO - input Y state at round 0: 
+e7cd51cd90202032
+
+bed0df80d77d704a
+
+704250acfea562a6
+
+bc1556cc98493d47
+
+404461840a57a8e8
+
+2022-07-11 22:28:28,673 - 6rasconhash - INFO - start round function
+2022-07-11 22:28:28,674 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,675 - 6rasconhash - INFO - difference state at round 1: 
+0000000000000000
+
+04000a0080014000
+
+0000000000000000
+
+0000080000014000
+
+04000a0080014000
+
+2022-07-11 22:28:28,675 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,675 - 6rasconhash - INFO - input X state at round 1: 
+038ac8ad65e16f61
+
+6d5eb525758a97c7
+
+712d51d3d4316d4b
+
+314ff0e1bbe7e7a3
+
+e001f2c85717a5af
+
+2022-07-11 22:28:28,676 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,676 - 6rasconhash - INFO - input Y state at round 1: 
+038ac8ad65e16f61
+
+695ebf25f58bd7c7
+
+712d51d3d4316d4b
+
+314ff8e1bbe6a7a3
+
+e401f8c8d716e5af
+
+2022-07-11 22:28:28,679 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,679 - 6rasconhash - INFO - difference state at round 2: 
+80405826050100c0
+
+054802b6010142c1
+
+a108588200010000
+
+a10858b6010142c0
+
+a0081a9684034255
+
+2022-07-11 22:28:28,680 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,680 - 6rasconhash - INFO - input X state at round 2: 
+be5d682a1cdc940a
+
+44a513ec3aec1c29
+
+8768fae6d9827dc7
+
+58c71a914985c393
+
+b5f8484528b45d34
+
+2022-07-11 22:28:28,681 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,681 - 6rasconhash - INFO - input Y state at round 2: 
+3e1d300c19dd94ca
+
+41ed115a3bed5ee8
+
+2660a264d9837dc7
+
+f9cf422748848153
+
+15f052d3acb71f61
+
+2022-07-11 22:28:28,684 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,684 - 6rasconhash - INFO - difference state at round 3: 
+f34a5fa78bdbc6dc
+
+0000000000000000
+
+0000000000000000
+
+0000000000000000
+
+0000000000000000
+
+2022-07-11 22:28:28,685 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,685 - 6rasconhash - INFO - input X state at round 3: 
+5e249830a7b53854
+
+f82b6e7ab30a61ff
+
+bec1efff76ffcb30
+
+00e60f04cd0f22fe
+
+033725cbcb25eccf
+
+2022-07-11 22:28:28,686 - 6rasconhash - INFO - ##############################################
+2022-07-11 22:28:28,686 - 6rasconhash - INFO - input Y state at round 3: 
+ad6ec7972c6efe88
+
+f82b6e7ab30a61ff
+
+bec1efff76ffcb30
+
+00e60f04cd0f22fe
+
+033725cbcb25eccf
+
+2022-07-11 22:28:28,688 - 6rasconhash - INFO - check over
