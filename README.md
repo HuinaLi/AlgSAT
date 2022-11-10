@@ -52,3 +52,6 @@ for example:
 # cadical usage in linux
 for example:
  ```cadical  6rgimli.cnf > 6rgimli_cadical.log 2>&1 &```
+ 
+ 
+ Note that we run CryptoMiniSat or CadiCaL sat solvers for at least 5 different, randomly generated, similarly hard problems to get an average time to solve.
