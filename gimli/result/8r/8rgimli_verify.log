@@ -1,0 +1,146 @@
+nohup: ignoring input
+c: 2022-07-03 16:05:46,687 - check_solution - INFO - 8rcheck.py[line:24]: start checking solution
+c: 2022-07-03 16:05:46,687 - check_solution - INFO - 8rcheck.py[line:35]: ##############################################
+c: 2022-07-03 16:05:46,687 - check_solution - INFO - 8rcheck.py[line:36]: difference state at round 1: 
+c: 2022-07-03 16:05:46,688 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x81c18ba0 
+c: 2022-07-03 16:05:46,688 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 16:05:46,688 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 16:05:46,688 - check_solution - INFO - 8rcheck.py[line:38]: ##############################################
+c: 2022-07-03 16:05:46,688 - check_solution - INFO - 8rcheck.py[line:39]: input X state at round 1: 
+c: 2022-07-03 16:05:46,688 - check_solution - INFO - 8rcheck.py[line:132]: 0x8e57bfca 0xda90441d 0x9134941b 0x3a78650c 
+c: 2022-07-03 16:05:46,688 - check_solution - INFO - 8rcheck.py[line:132]: 0xcd0c5da0 0x576ee7cd 0x7081c41a 0xdf260717 
+c: 2022-07-03 16:05:46,688 - check_solution - INFO - 8rcheck.py[line:132]: 0x2a98b7a5 0x02fd11bb 0x21954066 0x8e042b58 
+c: 2022-07-03 16:05:46,688 - check_solution - INFO - 8rcheck.py[line:41]: ##############################################
+c: 2022-07-03 16:05:46,688 - check_solution - INFO - 8rcheck.py[line:42]: input Y state at round 1: 
+c: 2022-07-03 16:05:46,689 - check_solution - INFO - 8rcheck.py[line:132]: 0x8e57bfca 0xda90441d 0x9134941b 0xbbb9eeac 
+c: 2022-07-03 16:05:46,689 - check_solution - INFO - 8rcheck.py[line:132]: 0xcd0c5da0 0x576ee7cd 0x7081c41a 0xdf260717 
+c: 2022-07-03 16:05:46,689 - check_solution - INFO - 8rcheck.py[line:132]: 0x2a98b7a5 0x02fd11bb 0x21954066 0x8e042b58 
+c: 2022-07-03 16:05:46,689 - check_solution - INFO - 8rcheck.py[line:45]: start round function
+c: 2022-07-03 16:05:46,698 - check_solution - INFO - 8rcheck.py[line:62]: ##############################################
+c: 2022-07-03 16:05:46,698 - check_solution - INFO - 8rcheck.py[line:63]: difference state at round 2: 
+c: 2022-07-03 16:05:46,698 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x00000c50 
+c: 2022-07-03 16:05:46,698 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0xe182408d 
+c: 2022-07-03 16:05:46,698 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0xa081c18b 
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:65]: ##############################################
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:66]: input X state at round 2: 
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:132]: 0x7671faef 0x31660b35 0x3e1cd087 0xa25b45c6 
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:132]: 0x0708f95b 0xffea2914 0x6f33e999 0x5c48a121 
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:132]: 0xbddf3ef5 0x1b14f19a 0x5ebbb5d8 0x202282b5 
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:68]: ##############################################
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:69]: input Y state at round 2: 
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:132]: 0x7671faef 0x31660b35 0x3e1cd087 0xa25b4996 
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:132]: 0x0708f95b 0xffea2914 0x6f33e999 0xbdcae1ac 
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:132]: 0xbddf3ef5 0x1b14f19a 0x5ebbb5d8 0x80a3433e 
+c: 2022-07-03 16:05:46,699 - check_solution - INFO - 8rcheck.py[line:97]: round 1 check over
+c: 2022-07-03 16:05:46,705 - check_solution - INFO - 8rcheck.py[line:62]: ##############################################
+c: 2022-07-03 16:05:46,705 - check_solution - INFO - 8rcheck.py[line:63]: difference state at round 3: 
+c: 2022-07-03 16:05:46,706 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 16:05:46,706 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0xb4821adb 
+c: 2022-07-03 16:05:46,706 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x13068d32 
+c: 2022-07-03 16:05:46,706 - check_solution - INFO - 8rcheck.py[line:65]: ##############################################
+c: 2022-07-03 16:05:46,706 - check_solution - INFO - 8rcheck.py[line:66]: input X state at round 3: 
+c: 2022-07-03 16:05:46,706 - check_solution - INFO - 8rcheck.py[line:132]: 0x01f80186 0xb172d00d 0xa7bc08ab 0x6fc7d83d 
+c: 2022-07-03 16:05:46,706 - check_solution - INFO - 8rcheck.py[line:132]: 0x017a380a 0x9f08a0c2 0x5f9255be 0x9aa5ae17 
+c: 2022-07-03 16:05:46,706 - check_solution - INFO - 8rcheck.py[line:132]: 0xd380d400 0x43580357 0x2005b400 0x86ef54ef 
+c: 2022-07-03 16:05:46,707 - check_solution - INFO - 8rcheck.py[line:68]: ##############################################
+c: 2022-07-03 16:05:46,707 - check_solution - INFO - 8rcheck.py[line:69]: input Y state at round 3: 
+c: 2022-07-03 16:05:46,707 - check_solution - INFO - 8rcheck.py[line:132]: 0x01f80186 0xb172d00d 0xa7bc08ab 0x6fc7d83d 
+c: 2022-07-03 16:05:46,707 - check_solution - INFO - 8rcheck.py[line:132]: 0x017a380a 0x9f08a0c2 0x5f9255be 0x2e27b4cc 
+c: 2022-07-03 16:05:46,707 - check_solution - INFO - 8rcheck.py[line:132]: 0xd380d400 0x43580357 0x2005b400 0x95e9d9dd 
+c: 2022-07-03 16:05:46,707 - check_solution - INFO - 8rcheck.py[line:97]: round 2 check over
+c: 2022-07-03 16:05:46,713 - check_solution - INFO - 8rcheck.py[line:62]: ##############################################
+c: 2022-07-03 16:05:46,713 - check_solution - INFO - 8rcheck.py[line:63]: difference state at round 4: 
+c: 2022-07-03 16:05:46,713 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x361f001b 
+c: 2022-07-03 16:05:46,713 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x0035a72d 
+c: 2022-07-03 16:05:46,713 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x3a9b6b80 
+c: 2022-07-03 16:05:46,713 - check_solution - INFO - 8rcheck.py[line:65]: ##############################################
+c: 2022-07-03 16:05:46,713 - check_solution - INFO - 8rcheck.py[line:66]: input X state at round 4: 
+c: 2022-07-03 16:05:46,714 - check_solution - INFO - 8rcheck.py[line:132]: 0x07f04002 0x5a1186e9 0x01b728ff 0x87d3435a 
+c: 2022-07-03 16:05:46,714 - check_solution - INFO - 8rcheck.py[line:132]: 0xdd721401 0x83021040 0xd843b8a7 0x09ec4713 
+c: 2022-07-03 16:05:46,714 - check_solution - INFO - 8rcheck.py[line:132]: 0x61000001 0x8e017026 0x6ba80408 0x39817e92 
+c: 2022-07-03 16:05:46,714 - check_solution - INFO - 8rcheck.py[line:68]: ##############################################
+c: 2022-07-03 16:05:46,714 - check_solution - INFO - 8rcheck.py[line:69]: input Y state at round 4: 
+c: 2022-07-03 16:05:46,714 - check_solution - INFO - 8rcheck.py[line:132]: 0x07f04002 0x5a1186e9 0x01b728ff 0xb1cc4341 
+c: 2022-07-03 16:05:46,714 - check_solution - INFO - 8rcheck.py[line:132]: 0xdd721401 0x83021040 0xd843b8a7 0x09d9e03e 
+c: 2022-07-03 16:05:46,714 - check_solution - INFO - 8rcheck.py[line:132]: 0x61000001 0x8e017026 0x6ba80408 0x031a1512 
+c: 2022-07-03 16:05:46,715 - check_solution - INFO - 8rcheck.py[line:97]: round 3 check over
+c: 2022-07-03 16:05:46,725 - check_solution - INFO - 8rcheck.py[line:62]: ##############################################
+c: 2022-07-03 16:05:46,725 - check_solution - INFO - 8rcheck.py[line:63]: difference state at round 5: 
+c: 2022-07-03 16:05:46,726 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x99e74180 0x00000000 
+c: 2022-07-03 16:05:46,726 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 16:05:46,726 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 16:05:46,726 - check_solution - INFO - 8rcheck.py[line:65]: ##############################################
+c: 2022-07-03 16:05:46,726 - check_solution - INFO - 8rcheck.py[line:66]: input X state at round 5: 
+c: 2022-07-03 16:05:46,726 - check_solution - INFO - 8rcheck.py[line:132]: 0x14168004 0x852803bb 0x253f4899 0xd4d172b8 
+c: 2022-07-03 16:05:46,726 - check_solution - INFO - 8rcheck.py[line:132]: 0x20201378 0x33cc73cc 0x872396c8 0x75060af6 
+c: 2022-07-03 16:05:46,726 - check_solution - INFO - 8rcheck.py[line:132]: 0x4007f042 0xe558f1d2 0x24d1af38 0x4b85b62f 
+c: 2022-07-03 16:05:46,727 - check_solution - INFO - 8rcheck.py[line:68]: ##############################################
+c: 2022-07-03 16:05:46,727 - check_solution - INFO - 8rcheck.py[line:69]: input Y state at round 5: 
+c: 2022-07-03 16:05:46,727 - check_solution - INFO - 8rcheck.py[line:132]: 0x14168004 0x852803bb 0xbcd80919 0xd4d172b8 
+c: 2022-07-03 16:05:46,727 - check_solution - INFO - 8rcheck.py[line:132]: 0x20201378 0x33cc73cc 0x872396c8 0x75060af6 
+c: 2022-07-03 16:05:46,727 - check_solution - INFO - 8rcheck.py[line:132]: 0x4007f042 0xe558f1d2 0x24d1af38 0x4b85b62f 
+c: 2022-07-03 16:05:46,727 - check_solution - INFO - 8rcheck.py[line:97]: round 4 check over
+c: 2022-07-03 16:05:46,733 - check_solution - INFO - 8rcheck.py[line:62]: ##############################################
+c: 2022-07-03 16:05:46,733 - check_solution - INFO - 8rcheck.py[line:63]: difference state at round 6: 
+c: 2022-07-03 16:05:46,733 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x004c0800 0x00000000 
+c: 2022-07-03 16:05:46,733 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x808967c3 0x00000000 
+c: 2022-07-03 16:05:46,733 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x8099e741 0x00000000 
+c: 2022-07-03 16:05:46,734 - check_solution - INFO - 8rcheck.py[line:65]: ##############################################
+c: 2022-07-03 16:05:46,734 - check_solution - INFO - 8rcheck.py[line:66]: input X state at round 6: 
+c: 2022-07-03 16:05:46,734 - check_solution - INFO - 8rcheck.py[line:132]: 0x00018002 0xb99729ad 0x6ad4b676 0x073659d5 
+c: 2022-07-03 16:05:46,734 - check_solution - INFO - 8rcheck.py[line:132]: 0xcc1d0b44 0xdcd943c2 0xa5e3d0b6 0x436ad366 
+c: 2022-07-03 16:05:46,734 - check_solution - INFO - 8rcheck.py[line:132]: 0x84003704 0x70368aaf 0xc0806518 0x0fc92d84 
+c: 2022-07-03 16:05:46,734 - check_solution - INFO - 8rcheck.py[line:68]: ##############################################
+c: 2022-07-03 16:05:46,734 - check_solution - INFO - 8rcheck.py[line:69]: input Y state at round 6: 
+c: 2022-07-03 16:05:46,734 - check_solution - INFO - 8rcheck.py[line:132]: 0x00018002 0xb99729ad 0x6a98be76 0x073659d5 
+c: 2022-07-03 16:05:46,734 - check_solution - INFO - 8rcheck.py[line:132]: 0xcc1d0b44 0xdcd943c2 0x256ab775 0x436ad366 
+c: 2022-07-03 16:05:46,735 - check_solution - INFO - 8rcheck.py[line:132]: 0x84003704 0x70368aaf 0x40198259 0x0fc92d84 
+c: 2022-07-03 16:05:46,735 - check_solution - INFO - 8rcheck.py[line:97]: round 5 check over
+c: 2022-07-03 16:05:46,741 - check_solution - INFO - 8rcheck.py[line:62]: ##############################################
+c: 2022-07-03 16:05:46,741 - check_solution - INFO - 8rcheck.py[line:63]: difference state at round 7: 
+c: 2022-07-03 16:05:46,741 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 16:05:46,741 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x13ed158b 0x00000000 
+c: 2022-07-03 16:05:46,741 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x03101f8a 0x00000000 
+c: 2022-07-03 16:05:46,741 - check_solution - INFO - 8rcheck.py[line:65]: ##############################################
+c: 2022-07-03 16:05:46,741 - check_solution - INFO - 8rcheck.py[line:66]: input X state at round 7: 
+c: 2022-07-03 16:05:46,741 - check_solution - INFO - 8rcheck.py[line:132]: 0x36232843 0x725fc102 0xae16b29c 0xc6bd265e 
+c: 2022-07-03 16:05:46,741 - check_solution - INFO - 8rcheck.py[line:132]: 0x3416e710 0xe4412dce 0x5c1e5281 0xbf3f8565 
+c: 2022-07-03 16:05:46,742 - check_solution - INFO - 8rcheck.py[line:132]: 0x0a006b88 0x8dce80d3 0xf56b8aa6 0xdc955f41 
+c: 2022-07-03 16:05:46,742 - check_solution - INFO - 8rcheck.py[line:68]: ##############################################
+c: 2022-07-03 16:05:46,742 - check_solution - INFO - 8rcheck.py[line:69]: input Y state at round 7: 
+c: 2022-07-03 16:05:46,742 - check_solution - INFO - 8rcheck.py[line:132]: 0x36232843 0x725fc102 0xae16b29c 0xc6bd265e 
+c: 2022-07-03 16:05:46,742 - check_solution - INFO - 8rcheck.py[line:132]: 0x3416e710 0xe4412dce 0x4ff3470a 0xbf3f8565 
+c: 2022-07-03 16:05:46,742 - check_solution - INFO - 8rcheck.py[line:132]: 0x0a006b88 0x8dce80d3 0xf67b952c 0xdc955f41 
+c: 2022-07-03 16:05:46,742 - check_solution - INFO - 8rcheck.py[line:97]: round 6 check over
+c: 2022-07-03 16:05:46,748 - check_solution - INFO - 8rcheck.py[line:62]: ##############################################
+c: 2022-07-03 16:05:46,748 - check_solution - INFO - 8rcheck.py[line:63]: difference state at round 8: 
+c: 2022-07-03 16:05:46,748 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x186bb8bd 0x00000000 
+c: 2022-07-03 16:05:46,749 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0xdc0b0437 0x00000000 
+c: 2022-07-03 16:05:46,749 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x4e8c65a4 0x00000000 
+c: 2022-07-03 16:05:46,749 - check_solution - INFO - 8rcheck.py[line:65]: ##############################################
+c: 2022-07-03 16:05:46,749 - check_solution - INFO - 8rcheck.py[line:66]: input X state at round 8: 
+c: 2022-07-03 16:05:46,749 - check_solution - INFO - 8rcheck.py[line:132]: 0x2fff4aa0 0x1d05f31b 0x2cee9d9e 0x538bdd0f 
+c: 2022-07-03 16:05:46,749 - check_solution - INFO - 8rcheck.py[line:132]: 0xf894d410 0x9fd47daf 0x5bd42966 0x9c638896 
+c: 2022-07-03 16:05:46,749 - check_solution - INFO - 8rcheck.py[line:132]: 0x77367418 0x18c55d67 0xa6fd097e 0x97ed2ea4 
+c: 2022-07-03 16:05:46,749 - check_solution - INFO - 8rcheck.py[line:68]: ##############################################
+c: 2022-07-03 16:05:46,749 - check_solution - INFO - 8rcheck.py[line:69]: input Y state at round 8: 
+c: 2022-07-03 16:05:46,750 - check_solution - INFO - 8rcheck.py[line:132]: 0x2fff4aa0 0x1d05f31b 0x34852523 0x538bdd0f 
+c: 2022-07-03 16:05:46,750 - check_solution - INFO - 8rcheck.py[line:132]: 0xf894d410 0x9fd47daf 0x87df2d51 0x9c638896 
+c: 2022-07-03 16:05:46,750 - check_solution - INFO - 8rcheck.py[line:132]: 0x77367418 0x18c55d67 0xe8716cda 0x97ed2ea4 
+c: 2022-07-03 16:05:46,750 - check_solution - INFO - 8rcheck.py[line:97]: round 7 check over
+c: 2022-07-03 16:05:46,757 - check_solution - INFO - 8rcheck.py[line:62]: ##############################################
+c: 2022-07-03 16:05:46,757 - check_solution - INFO - 8rcheck.py[line:63]: difference state at round 9: 
+c: 2022-07-03 16:05:46,757 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x0806669c 
+c: 2022-07-03 16:05:46,758 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 16:05:46,758 - check_solution - INFO - 8rcheck.py[line:132]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 16:05:46,758 - check_solution - INFO - 8rcheck.py[line:65]: ##############################################
+c: 2022-07-03 16:05:46,758 - check_solution - INFO - 8rcheck.py[line:66]: input X state at round 9: 
+c: 2022-07-03 16:05:46,758 - check_solution - INFO - 8rcheck.py[line:132]: 0x6ec152d0 0x5fdf5fe9 0x68744b5c 0x4ea9a161 
+c: 2022-07-03 16:05:46,758 - check_solution - INFO - 8rcheck.py[line:132]: 0x67f8200f 0x845ce122 0x4b85fdd4 0xf7bdf91f 
+c: 2022-07-03 16:05:46,758 - check_solution - INFO - 8rcheck.py[line:132]: 0xcac3973a 0x0992cba1 0x5296dcb9 0x3c8d6615 
+c: 2022-07-03 16:05:46,758 - check_solution - INFO - 8rcheck.py[line:68]: ##############################################
+c: 2022-07-03 16:05:46,758 - check_solution - INFO - 8rcheck.py[line:69]: input Y state at round 9: 
+c: 2022-07-03 16:05:46,758 - check_solution - INFO - 8rcheck.py[line:132]: 0x6ec152d0 0x5fdf5fe9 0x68744b5c 0x46afc7fd 
+c: 2022-07-03 16:05:46,759 - check_solution - INFO - 8rcheck.py[line:132]: 0x67f8200f 0x845ce122 0x4b85fdd4 0xf7bdf91f 
+c: 2022-07-03 16:05:46,759 - check_solution - INFO - 8rcheck.py[line:132]: 0xcac3973a 0x0992cba1 0x5296dcb9 0x3c8d6615 
+c: 2022-07-03 16:05:46,759 - check_solution - INFO - 8rcheck.py[line:97]: round 8 check over

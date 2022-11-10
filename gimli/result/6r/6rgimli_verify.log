@@ -1,0 +1,116 @@
+nohup: ignoring input
+c: 2022-07-03 01:35:30,757 - check_solution - INFO - 6rgimlicheck.py[line:24]: start checking solution
+c: 2022-07-03 01:35:30,757 - check_solution - INFO - 6rgimlicheck.py[line:29]: [1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1]
+c: 2022-07-03 01:35:30,759 - check_solution - INFO - 6rgimlicheck.py[line:35]: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+c: 2022-07-03 01:35:30,759 - check_solution - INFO - 6rgimlicheck.py[line:39]: ##############################################
+c: 2022-07-03 01:35:30,759 - check_solution - INFO - 6rgimlicheck.py[line:40]: difference state at round 0: 
+c: 2022-07-03 01:35:30,759 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0xc803ec98 0x00000000 0xc803ec98 
+c: 2022-07-03 01:35:30,759 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 01:35:30,759 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 01:35:30,759 - check_solution - INFO - 6rgimlicheck.py[line:42]: ##############################################
+c: 2022-07-03 01:35:30,759 - check_solution - INFO - 6rgimlicheck.py[line:43]: input X state at round 0: 
+c: 2022-07-03 01:35:30,760 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xe06d07af 0x445efb01 0x1a06fc49 0x47fefb01 
+c: 2022-07-03 01:35:30,760 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x46e37879 0x00d119d0 0x807e0345 0x00d11880 
+c: 2022-07-03 01:35:30,760 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x33682fd3 0x03332212 0x7e8d4676 0x8334b212 
+c: 2022-07-03 01:35:30,760 - check_solution - INFO - 6rgimlicheck.py[line:45]: ##############################################
+c: 2022-07-03 01:35:30,760 - check_solution - INFO - 6rgimlicheck.py[line:46]: input Y state at round 0: 
+c: 2022-07-03 01:35:30,760 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xe06d07af 0x8c5d1799 0x1a06fc49 0x8ffd1799 
+c: 2022-07-03 01:35:30,760 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x46e37879 0x00d119d0 0x807e0345 0x00d11880 
+c: 2022-07-03 01:35:30,760 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x33682fd3 0x03332212 0x7e8d4676 0x8334b212 
+c: 2022-07-03 01:35:30,760 - check_solution - INFO - 6rgimlicheck.py[line:49]: start round function
+c: 2022-07-03 01:35:30,774 - check_solution - INFO - 6rgimlicheck.py[line:65]: ##############################################
+c: 2022-07-03 01:35:30,774 - check_solution - INFO - 6rgimlicheck.py[line:66]: difference state at round 1: 
+c: 2022-07-03 01:35:30,774 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 01:35:30,775 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0xa9580034 0x00000000 0xa9580034 
+c: 2022-07-03 01:35:30,775 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x98c803ec 0x00000000 0x98c803ec 
+c: 2022-07-03 01:35:30,775 - check_solution - INFO - 6rgimlicheck.py[line:68]: ##############################################
+c: 2022-07-03 01:35:30,775 - check_solution - INFO - 6rgimlicheck.py[line:69]: input X state at round 1: 
+c: 2022-07-03 01:35:30,775 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x3f37fb03 0xc29bdd76 0x210db21b 0xc29bdd76 
+c: 2022-07-03 01:35:30,775 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x16c04024 0xa599030c 0x4a220000 0xa599030c 
+c: 2022-07-03 01:35:30,775 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xc0b0b8a5 0x0fee9adf 0x44108210 0x0fee9adf 
+c: 2022-07-03 01:35:30,775 - check_solution - INFO - 6rgimlicheck.py[line:71]: ##############################################
+c: 2022-07-03 01:35:30,775 - check_solution - INFO - 6rgimlicheck.py[line:72]: input Y state at round 1: 
+c: 2022-07-03 01:35:30,776 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x3f37fb03 0xc29bdd76 0x210db21b 0xc29bdd76 
+c: 2022-07-03 01:35:30,776 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x16c04024 0x0cc10338 0x4a220000 0x0cc10338 
+c: 2022-07-03 01:35:30,776 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xc0b0b8a5 0x97269933 0x44108210 0x97269933 
+c: 2022-07-03 01:35:30,776 - check_solution - INFO - 6rgimlicheck.py[line:80]: round 1 check over
+c: 2022-07-03 01:35:30,782 - check_solution - INFO - 6rgimlicheck.py[line:65]: ##############################################
+c: 2022-07-03 01:35:30,782 - check_solution - INFO - 6rgimlicheck.py[line:66]: difference state at round 2: 
+c: 2022-07-03 01:35:30,782 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0xa8c8203e 0x00000000 0xa8c8203e 
+c: 2022-07-03 01:35:30,782 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0xa0106912 0x00000000 0xa0106912 
+c: 2022-07-03 01:35:30,782 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x319026b0 0x00000000 0x319026b0 
+c: 2022-07-03 01:35:30,783 - check_solution - INFO - 6rgimlicheck.py[line:68]: ##############################################
+c: 2022-07-03 01:35:30,783 - check_solution - INFO - 6rgimlicheck.py[line:69]: input X state at round 2: 
+c: 2022-07-03 01:35:30,783 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x4030f1c0 0xadf849dc 0x00108604 0xadf849dc 
+c: 2022-07-03 01:35:30,783 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x04c00028 0xbb19b528 0xe1421242 0xbb19b528 
+c: 2022-07-03 01:35:30,783 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x805e6625 0x6107cf4f 0x830009d2 0x6107cf4f 
+c: 2022-07-03 01:35:30,783 - check_solution - INFO - 6rgimlicheck.py[line:71]: ##############################################
+c: 2022-07-03 01:35:30,783 - check_solution - INFO - 6rgimlicheck.py[line:72]: input Y state at round 2: 
+c: 2022-07-03 01:35:30,783 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x4030f1c0 0x053069e2 0x00108604 0x053069e2 
+c: 2022-07-03 01:35:30,783 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x04c00028 0x1b09dc3a 0xe1421242 0x1b09dc3a 
+c: 2022-07-03 01:35:30,784 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x805e6625 0x5097e9ff 0x830009d2 0x5097e9ff 
+c: 2022-07-03 01:35:30,784 - check_solution - INFO - 6rgimlicheck.py[line:80]: round 2 check over
+c: 2022-07-03 01:35:30,790 - check_solution - INFO - 6rgimlicheck.py[line:65]: ##############################################
+c: 2022-07-03 01:35:30,790 - check_solution - INFO - 6rgimlicheck.py[line:66]: difference state at round 3: 
+c: 2022-07-03 01:35:30,790 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x800100f0 0x00000000 0x800100f0 
+c: 2022-07-03 01:35:30,790 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x000ae000 0x00000000 0x000ae000 
+c: 2022-07-03 01:35:30,790 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x9bc00080 0x00000000 0x9bc00080 
+c: 2022-07-03 01:35:30,790 - check_solution - INFO - 6rgimlicheck.py[line:68]: ##############################################
+c: 2022-07-03 01:35:30,790 - check_solution - INFO - 6rgimlicheck.py[line:69]: input X state at round 3: 
+c: 2022-07-03 01:35:30,790 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x27248800 0xd32f1c39 0x005eb624 0xd32f1c39 
+c: 2022-07-03 01:35:30,791 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xc0fc8d12 0x149857a1 0x8e24a6e8 0x149857a1 
+c: 2022-07-03 01:35:30,791 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xc0fdfcbf 0x9aab63cf 0x0200042a 0x9aab63cf 
+c: 2022-07-03 01:35:30,791 - check_solution - INFO - 6rgimlicheck.py[line:71]: ##############################################
+c: 2022-07-03 01:35:30,791 - check_solution - INFO - 6rgimlicheck.py[line:72]: input Y state at round 3: 
+c: 2022-07-03 01:35:30,791 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x27248800 0x532e1cc9 0x005eb624 0x532e1cc9 
+c: 2022-07-03 01:35:30,791 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xc0fc8d12 0x1492b7a1 0x8e24a6e8 0x1492b7a1 
+c: 2022-07-03 01:35:30,791 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xc0fdfcbf 0x016b634f 0x0200042a 0x016b634f 
+c: 2022-07-03 01:35:30,791 - check_solution - INFO - 6rgimlicheck.py[line:80]: round 3 check over
+c: 2022-07-03 01:35:30,797 - check_solution - INFO - 6rgimlicheck.py[line:65]: ##############################################
+c: 2022-07-03 01:35:30,798 - check_solution - INFO - 6rgimlicheck.py[line:66]: difference state at round 4: 
+c: 2022-07-03 01:35:30,798 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x00000080 0x00000000 0x00000080 
+c: 2022-07-03 01:35:30,798 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x00400000 0x00000000 0x00400000 
+c: 2022-07-03 01:35:30,798 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x80000000 0x00000000 0x80000000 
+c: 2022-07-03 01:35:30,798 - check_solution - INFO - 6rgimlicheck.py[line:68]: ##############################################
+c: 2022-07-03 01:35:30,798 - check_solution - INFO - 6rgimlicheck.py[line:69]: input X state at round 4: 
+c: 2022-07-03 01:35:30,798 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x39f6fd3e 0x2e1c31a6 0x4b4f5596 0x2e1c31a6 
+c: 2022-07-03 01:35:30,798 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x78c2f877 0x7e8ab28b 0x214d32d6 0x7e8ab28b 
+c: 2022-07-03 01:35:30,799 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x81bc4ff2 0x4e28e0a6 0x200056c2 0x4e28e0a6 
+c: 2022-07-03 01:35:30,799 - check_solution - INFO - 6rgimlicheck.py[line:71]: ##############################################
+c: 2022-07-03 01:35:30,799 - check_solution - INFO - 6rgimlicheck.py[line:72]: input Y state at round 4: 
+c: 2022-07-03 01:35:30,799 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x39f6fd3e 0x2e1c3126 0x4b4f5596 0x2e1c3126 
+c: 2022-07-03 01:35:30,799 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x78c2f877 0x7ecab28b 0x214d32d6 0x7ecab28b 
+c: 2022-07-03 01:35:30,799 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x81bc4ff2 0xce28e0a6 0x200056c2 0xce28e0a6 
+c: 2022-07-03 01:35:30,799 - check_solution - INFO - 6rgimlicheck.py[line:80]: round 4 check over
+c: 2022-07-03 01:35:30,806 - check_solution - INFO - 6rgimlicheck.py[line:65]: ##############################################
+c: 2022-07-03 01:35:30,806 - check_solution - INFO - 6rgimlicheck.py[line:66]: difference state at round 5: 
+c: 2022-07-03 01:35:30,806 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 01:35:30,807 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 01:35:30,807 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x80000000 0x00000000 0x80000000 
+c: 2022-07-03 01:35:30,807 - check_solution - INFO - 6rgimlicheck.py[line:68]: ##############################################
+c: 2022-07-03 01:35:30,807 - check_solution - INFO - 6rgimlicheck.py[line:69]: input X state at round 5: 
+c: 2022-07-03 01:35:30,807 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xe45a2ec7 0x25cb968b 0x7a6d57d3 0x286d9880 
+c: 2022-07-03 01:35:30,807 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xc4b2e7f2 0x6f16f3a2 0x60b85cb9 0x6f16f3a2 
+c: 2022-07-03 01:35:30,807 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x3b8052d9 0x2affdfed 0xd64bf3d9 0x2affdfed 
+c: 2022-07-03 01:35:30,807 - check_solution - INFO - 6rgimlicheck.py[line:71]: ##############################################
+c: 2022-07-03 01:35:30,807 - check_solution - INFO - 6rgimlicheck.py[line:72]: input Y state at round 5: 
+c: 2022-07-03 01:35:30,807 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xe45a2ec7 0x25cb968b 0x7a6d57d3 0x286d9880 
+c: 2022-07-03 01:35:30,808 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0xc4b2e7f2 0x6f16f3a2 0x60b85cb9 0x6f16f3a2 
+c: 2022-07-03 01:35:30,808 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x3b8052d9 0xaaffdfed 0xd64bf3d9 0xaaffdfed 
+c: 2022-07-03 01:35:30,808 - check_solution - INFO - 6rgimlicheck.py[line:80]: round 5 check over
+c: 2022-07-03 01:35:30,814 - check_solution - INFO - 6rgimlicheck.py[line:65]: ##############################################
+c: 2022-07-03 01:35:30,814 - check_solution - INFO - 6rgimlicheck.py[line:66]: difference state at round 6: 
+c: 2022-07-03 01:35:30,814 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x80000000 0x00000000 0x80000000 
+c: 2022-07-03 01:35:30,814 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 01:35:30,814 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x00000000 0x00000000 0x00000000 0x00000000 
+c: 2022-07-03 01:35:30,814 - check_solution - INFO - 6rgimlicheck.py[line:68]: ##############################################
+c: 2022-07-03 01:35:30,814 - check_solution - INFO - 6rgimlicheck.py[line:69]: input X state at round 6: 
+c: 2022-07-03 01:35:30,815 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x706db710 0x4e329f83 0x27318310 0x061abff3 
+c: 2022-07-03 01:35:30,815 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x5de30a59 0xf13d30b6 0x0d34e028 0xf830d6bc 
+c: 2022-07-03 01:35:30,815 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x36e5fdb8 0x7d47677c 0x3fc841e1 0x764ac172 
+c: 2022-07-03 01:35:30,815 - check_solution - INFO - 6rgimlicheck.py[line:71]: ##############################################
+c: 2022-07-03 01:35:30,815 - check_solution - INFO - 6rgimlicheck.py[line:72]: input Y state at round 6: 
+c: 2022-07-03 01:35:30,815 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x706db710 0xce329f83 0x27318310 0x861abff3 
+c: 2022-07-03 01:35:30,815 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x5de30a59 0xf13d30b6 0x0d34e028 0xf830d6bc 
+c: 2022-07-03 01:35:30,816 - check_solution - INFO - 6rgimlicheck.py[line:115]: 0x36e5fdb8 0x7d47677c 0x3fc841e1 0x764ac172 
+c: 2022-07-03 01:35:30,816 - check_solution - INFO - 6rgimlicheck.py[line:80]: round 6 check over
