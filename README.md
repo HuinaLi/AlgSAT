@@ -25,7 +25,8 @@ The open-source tool is available at https://github.com/meelgroup/bosphorus
 
 
 ## Step 3: Generate ANF file
-1. Run .py file to generate the original .anf file
+1. Run .py file to generate the original .anf file.
+   
 We take 6rgimli.anf for example:
 ```python 6rattack.py > 6rgimli.anf 2>&1 &```
 
