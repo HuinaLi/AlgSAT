@@ -24,7 +24,7 @@ The open-source tool is available at https://github.com/meelgroup/bosphorus
 1. ```git clone https://github.com/meelgroup/bosphorus.git```
 
 
-## Step 3: Download Our AlgSAT_code_result folder
+## Step 3: Generate ANF file
 1. Run .py file to generate the original .anf file
 We take 6rgimli.anf for example:
 ```python 6rattack.py > 6rgimli.anf 2>&1 &```
