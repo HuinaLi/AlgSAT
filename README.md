@@ -24,7 +24,7 @@ The open-source tool is available at https://github.com/meelgroup/bosphorus
 1. ```git clone https://github.com/meelgroup/bosphorus.git```
 
 
-## Step 3: Generate ANF file
+## Step 3: Generate ANF file (SageMath & Python)
 1. Run .py file to generate the original .anf file.
    
 We take 6rgimli.anf for example:
@@ -36,17 +36,19 @@ To get final CNFs:
 ``` ./build/bosphorus --anfread 6rgimli.anf --anfwrite .6rgimli_out.anf --cnfwrite 6rgimli.cnf ```
 
 
-## Step 4: Install cryptominisat
+## Step 4: Install SAT Solver
+
+Choose 1: Install cryptominisat
 1. activate your sage environment: </br>```conda activate sage```
 2. install cryptominisat: </br>``` conda install cryptominisat``` 
 3. To deactivate an active environment, use
 ```conda deactivate```
 
-# cryptominisat usage in linux
+cryptominisat usage in linux
 for example:
  ```cryptominisat5 6rgimli.cnf -t 20 > 6rgimli_cms20.log 2>&1 &```
 
-## Step 5: Install cadical
+Choose 2: Install cadical
 1. git clone https://github.com/arminbiere/cadical.git
 2. ./configure && make
 
