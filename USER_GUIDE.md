@@ -55,8 +55,12 @@ To get final CNFs:
 ``` ./build/bosphorus --anfread 6rgimli.anf --anfwrite .6rgimli_out.anf --cnfwrite 6rgimli.cnf ```
 
 
-## Step 4: Solve our SAT model with all clauses
+## Step 4: Solve our SAT model
  To get a feasible solution
+
+ cryptominisat usage:
+for example:
+ ```cryptominisat5 6rgimli.cnf -t 20 > 6rgimli_cms20.log 2>&1 &```
 
 ## Note
 1. We suggest using a script file to automatically finish the above four steps, eg., please refer to our solve.sh file.
