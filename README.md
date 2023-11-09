@@ -19,9 +19,6 @@ result: output all CNF files of each verified trails as well as print the final 
 code: the code to describe model initialization and generate the final SAT model in indirect encoding way for verifing differential trails of Gimli.
 result: output all ANF and CNF files of each verified trails as well as print the final feasible solution (i.e. a right message pair) and run time.
 
-5. xoodoo
-code: the code to describe model initialization and generate the final SAT model in indirect encoding way for verifing differential trails of Xoodoo.
-result: output all ANF and CNF files of each verified trails as well as print the final feasible solution (i.e. a right message pair) and run time.
 
 Note: A brief user's guide with instructions on how to use Algsat is available in "USER_GUIDE.md" file.
 
