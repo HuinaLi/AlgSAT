@@ -17,7 +17,7 @@ ch = logging.StreamHandler()
 ch.setLevel(logging.DEBUG)
 
 # create formatter
-formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+formatter = logging.Formatter('c:%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 # add formatter to ch
 ch.setFormatter(formatter)
@@ -64,17 +64,17 @@ def addConst ( X, r ):
 
 if __name__ == '__main__':
     ROUNDS = 2
-    R = declare_ring( [ Block( 'x', (2*ROUNDS - 1)*320 ),'u' ], globals() )
+    R = declare_ring( [ Block( 'x', (2*ROUNDS + 1)*320 ),'u' ], globals() )
     X = [R(x(i)) for i in range(320)]
-    a_vars  = [[R(x(320*(2*r + 1) + i)) for i in range(320)] for r in range(ROUNDS -1)]
-    b_vars  = [[R(x(320*(2*r + 2) + i)) for i in range (320)] for r in range(ROUNDS -1)]       
+    a_vars  = [[R(x(320*(2*r + 1) + i)) for i in range(320)] for r in range(ROUNDS)]
+    b_vars  = [[R(x(320*(2*r + 2) + i)) for i in range (320)] for r in range(ROUNDS)]       
     diff = [[0] * 320 for i in range(2*ROUNDS)]
     ####### diff_pre ############
     d0 = 0xe6765f2bfb737f78
     d3 = 0xd255739452530b86
     for i in range(64):
-            diff[0][i] = d0 >> ( 63 - i ) & 0x1
-            diff[3][i] = d3 >> ( 63 - i ) & 0x1
+        diff[0][i] = d0 >> ( 63 - i ) & 0x1
+        diff[3][i] = d3 >> ( 63 - i ) & 0x1
     w = [ 0 for i in range(5) ]
     w[0] = 0x00144000c0404000
     w[1] = 0xe6765f2bfb737f78
@@ -101,13 +101,22 @@ if __name__ == '__main__':
     for r in range(ROUNDS): 
         X = addConst(X,r)
         X = Sbox(X)
+        for i in range( 320 ):
+            a = X[i] / R(u)
+            b = X[i] + a * R(u)
+            # the r th round, the i th variable
+            # x = a * u + b
+            Q.add(a + a_vars[r][i])
+            Q.add(b + b_vars[r][i])
+            X[i] = a_vars[r][i] * R(u) + b_vars[r][i]
+        X = Matrix( X )
         for i in range(320):
-            if diff[2*r+1][i] == 1:
+            if diff[r+2][i] == 1:
                 d = X[i] / R(u) 
                 if d == 1:
                     pass
                 elif d == 0:
-                    print ( diff[2*r+1][i], d )
+                    print ( diff[r+2][i], d )
                     print( "Impossible" )
                     exit(0)
                 else:
@@ -117,43 +126,17 @@ if __name__ == '__main__':
                 if d == 0:
                     pass
                 elif d == 1:
-                    print ( diff[2*r+1][i], d )
+                    print ( diff[r+2][i], d )
                     print( "Impossible" )
                     exit(0)
                 else:
                     Q.add(X[i]/R(u) ) 
-        if r < ROUNDS -1:
-            for i in range( 320 ):
-                a = X[i] / R(u)
-                b = X[i] + a * R(u)
-                # the r th round, the i th variable
-                # x = a * u + b
-                Q.add(a + a_vars[r][i])
-                Q.add(b + b_vars[r][i])
-                X[i] = a_vars[r][i] * R(u) + b_vars[r][i]
-            X = Matrix( X )
-            for i in range(320):
-                if diff[2*r+2][i] == 1:
-                    d = X[i] / R(u) 
-                    if d == 1:
-                        pass
-                    elif d == 0:
-                        print ( diff[2*r+2][i], d )
-                        print( "Impossible" )
-                        exit(0)
-                    else:
-                        Q.add(X[i]/R(u) + 1) 
-                else:
-                    d = X[i] / R(u) 
-                    if d == 0:
-                        pass
-                    elif d == 1:
-                        print ( diff[2*r+2][i], d )
-                        print( "Impossible" )
-                        exit(0)
-                    else:
-                        Q.add(X[i]/R(u) ) 
-    for q in Q:
-        print (q)  
-    logger.info("finished")
     
+    for q in Q:
+        print (q) 
+    """
+    logger.info( " start solve " )
+    s = solve_sat ( list ( Q ))
+    logger.info( s ) 
+    logger.info("finished")
+    """
